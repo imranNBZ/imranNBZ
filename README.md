@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @imranNBZ
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning full stack software dev
+- 🌱 I’m full stack software dev
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...imran.nabizada@icloud.com
 
